@@ -118,3 +118,6 @@ color: var(--green-300);
     max-height: none;
 }
 
+.commentList {
+    margin-top: 2rem;
+}
